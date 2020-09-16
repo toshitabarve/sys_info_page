@@ -1,6 +1,6 @@
 
 
-
+ 
 #!/bin/bash
 # Program to output a system information page
 
